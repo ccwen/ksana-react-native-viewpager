@@ -1,0 +1,19 @@
+{
+  "name": "ksana-react-native-viewpager",
+  "version": "1.0.0",
+  "description": "swipe pager for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksanaforge/ksana-react-native-viewpager.git"
+  },
+  "author": "yapcheahshen@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksanaforge/ksana-react-native-viewpager/issues"
+  },
+  "homepage": "https://github.com/ksanaforge/ksana-react-native-viewpager#readme"
+}
